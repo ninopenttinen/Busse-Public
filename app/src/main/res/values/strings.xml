@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Busse</string>
+    <string name="title_activity_maps">Kartta</string>
+    <string name="title_activity_main">Busse</string>
+
+    <string name="activity_main_search_distance">Haku etäisyys</string>
+    <string name="activity_main_search_distance_value">%1$s m</string>
+    <string name="activity_main_wait_time">Odotusaika</string>
+    <string name="activity_main_wait_time_value">%1$s min</string>
+    <string name="activity_main_no_arrivals_message">Kohteita ei löytynyt</string>
+
+    <string name="arrivals_item_card_stop_point_value">%1$s</string>
+    <string name="arrivals_item_card_line">Linja</string>
+    <string name="arrivals_item_card_arrival_time">%1$s</string>
+    <string name="arrivals_item_card_destination">Päätepysäkki</string>
+    <string name="arrivals_item_card_distance">Etäisyys</string>
+
+    <string name="arrivals_item_card_line_value">%1$s</string>
+    <string name="arrivals_item_card_arrival_time_value">(%1$s min) %2$s</string>
+    <string name="arrivals_item_card_destination_value">%1$s</string>
+    <string name="arrivals_item_card_distance_value">%1$s m</string>
+
+    <string name="activity_maps_following_line">Seurannassa %1$s</string>
+    <string name="activity_maps_journey">%1$s -> %2$s</string>
+</resources>
